@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background_color">#F5F5F5</color>
+    <color name="recycler_background_color">#FFFFFF</color>
+    <color name="title_color">#212121</color>
+    <color name="description_color">#757575</color>
+    <color name="button_background_color">#3F51B5</color>
+    <color name="item_background_color">#FFFFFF</color>
+    <color name="purple_700">#5C0011</color>
+    <color name="teal_200">#A7FFEB</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="red">#FF0000</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+</resources>
